@@ -1,0 +1,5 @@
+mask_rcnn_coco.h5预训练文件自行下载放在本目录下
+运行train_selfdata.py进行训练
+运行train_selfdata.py进行训练test_self1.py进行测试
+运行chli.py进行图片处理大小
+运行chuli2.py进行图片格式转换
